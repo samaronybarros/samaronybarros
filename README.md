@@ -2,7 +2,7 @@
 #### I am Full Stack Engineer
 I'm a Senior Software Engineer with 8+ years of experience. I have created systems and customizations to help companies to optimize their process and I have created reports using Business Intelligence to support companies on making the best decision based on real data, not only empirical data.
 
-Skills: Javascrip / Typescript / Node / React / React native
+Skills: Javascript / Typescript / Node / React / React native
 
 
 
