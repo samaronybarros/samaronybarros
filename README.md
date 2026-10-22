@@ -64,7 +64,7 @@ Built the web and mobile apps with Node.js, React, React Native and Kotlin on AW
 
 🎓 **MBA in Software Engineering** – Estácio de Sá University  
 🎓 **B.Sc. in Computer Science** – State University of Ceará  
-📜 **CrossFit Level 1 Trainer** – CrossFit, Inc.
+📜 **CrossFit Level 2 Trainer** – CrossFit, Inc.
 
 ---
 
