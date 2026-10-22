@@ -1,51 +1,61 @@
 # 👋 Hi, I'm **Sam Barros**
 
-### 🚀 Engineering Manager | Full Stack Software Engineer
+### 🚀 Engineering Manager | Development Architect | Full Stack Software Engineer
 
-I'm a passionate tech leader with 13+ years of experience building scalable, cloud-native SaaS platforms. I specialize in JavaScript/TypeScript ecosystems and love mentoring teams to deliver high-quality, reliable software.
+I've been building software since 2012, first in Fortaleza, Brazil, then in Berlin, and now from Darmstadt. For the last five years I've mostly led teams, but I still read the pull requests and write code when the team needs another pair of hands.
 
-From early-stage startups to international scale-ups, I've led cross-functional teams, improved developer velocity with CI/CD and observability, and aligned engineering strategy with business impact.  
+My home ground is TypeScript and Node.js services on AWS. Lately I've spent a lot of time on AI-assisted development: at RoomPriceGenie I moved my team to spec-driven development with Claude and Codex, and after that the agents wrote most of our production code from specs the engineers wrote and reviewed.
 
-🔧 **Main Stack:** TypeScript • Node.js • React • NestJS • PostgreSQL • AWS  
-🧠 **Current Focus:** Cloud Architecture • AI Integration • Developer Experience • Leadership
+🔧 **Main Stack:** TypeScript • Node.js • NestJS • React • PostgreSQL • AWS  
+🧠 **Current Focus:** AI-assisted development • Platform architecture • Growing engineers into leads
 
 ---
 
 ## 🛠 Tech Skills
 
 **Languages & Frameworks:**  
-JavaScript • TypeScript • Node.js • React • Redux • NestJS • Next.js • GraphQL • REST
+TypeScript • JavaScript • Node.js • NestJS • React • React Native • Next.js • Redux • GraphQL • REST • Java (Spring Boot) • Python • Kotlin
 
-**Databases:**  
-PostgreSQL • MongoDB • Redis • SQL/NoSQL
+**Databases & Messaging:**  
+PostgreSQL • MongoDB • Redis • Kafka
 
-**Architecture & DevOps:**  
-Microservices • Docker • CI/CD (GitHub Actions, Buildkite) • AWS (EC2, S3, ECS, Lambda)
+**Cloud & DevOps:**  
+AWS (ECS, EC2, Lambda, S3, CloudFront) • Docker • Kubernetes • Terraform • GitHub Actions • GitLab CI • Buildkite
 
-**Tools & Platforms:**  
-Sentry • CloudFront • Agile • Scrum • Kanban
+**Observability & Product:**  
+Datadog • Sentry • Grafana • PostHog • Amplitude
+
+**AI Tools:**  
+Claude • Codex • ChatGPT
 
 ---
 
 ## 👨‍💻 Recent Roles
 
-**🧭 Engineering Manager** @ Trackunit (Remote, 2023–2025)  
-Led a team of 7 engineers building scalable APIs for IoT telematics. Improved uptime by 30%, introduced OKRs, and boosted delivery throughput by 40%.
+**🔐 Engineering Manager, Customer Journey** @ RoomPriceGenie (Mannheim, Remote, 2026)  
+Ran the team behind login, onboarding, billing and reporting. We rebuilt authentication around 5-minute access tokens and 7-day refresh sessions, added email-based MFA, and rolled both out gradually behind feature flags while watching Datadog and Sentry.
 
-**🔧 Lead Software Engineer** @ Flexcavo (Remote, 2021–2022)  
-Architected and delivered mission-critical systems using TypeScript, NestJS, and React. Cut infra costs by 18% and increased performance by 15%.
+**🏛 Development Architect (Staff level)** @ Everest Systems (Heidelberg, Hybrid, 2025–2026)  
+Set the architecture for an AI-enabled ERP platform. In the product, the AI proposed changes and users confirmed them before anything was applied. I also built type generation that kept contracts consistent across services.
 
-**⚙️ Senior Software Engineer** @ Keleya GmbH (2019–2021)  
-Developed React & Node.js applications on AWS. Built CI/CD pipelines and integrated observability tools.
+**🧭 Engineering Manager** @ Trackunit (Aalborg, Remote, 2023–2025)  
+Led 7 engineers on telematics APIs, writing Java, Spring Boot and Kafka and sharing the deployments on Kubernetes and Terraform. Uptime went up 30%, and throughput rose 40% once we started tracking OKRs and delivery metrics. I promoted one engineer to Staff and prepared another to become an engineering manager.
+
+**🔧 Lead Software Engineer** @ Flexcavo (Berlin, Remote, 2021–2022)  
+Led 5 full stack engineers on TypeScript, NestJS and Next.js. We cut infrastructure costs by 18% while making the app 15% faster, and I worked on SSO when Trackunit acquired the company.
+
+**⚙️ Senior Software Engineer** @ Keleya GmbH (Berlin, 2019–2021)  
+Built the web and mobile apps with Node.js, React, React Native and Kotlin on AWS and Firebase, plus the Buildkite CI/CD pipelines and Sentry error tracking.
 
 <details>
   <summary>📜 See more previous experience...</summary>
 
-- Senior Software Engineer – Campai GmbH (2018–2019)  
-- Freelancer Developer – Fortaleza, BR (2018)  
+- Senior Software Engineer – Campai GmbH, Berlin (2018–2019)  
+- Freelance Developer – Fortaleza, BR (2018)  
 - Lead Software Engineer – Objetive IT, BR (2016–2018)  
 - Lead Developer – Dingo Innovations, BR (2014–2016)  
-- Software Developer – TOTVS, BR (2012–2014)  
+- Software Developer – MConsult, BR (2014)  
+- Software Developer – TOTVS, BR (2012–2014): consulting work with around 100 client companies, some with 15 employees and some with 5,000  
 </details>
 
 ---
@@ -60,21 +70,21 @@ Developed React & Node.js applications on AWS. Built CI/CD pipelines and integra
 
 ## 🌍 Languages
 
-- 🇬🇧 English – Fluent  
 - 🇧🇷 Portuguese – Native  
-- 🇪🇸 Spanish – Advanced  
-- 🇩🇪 German – Intermediate  
-- 🇫🇷 French – Basic
+- 🇬🇧 English – Fluent (C1)  
+- 🇪🇸 Spanish – Advanced (B2)  
+- 🇩🇪 German – B1 certified; I use it every day and coach CrossFit classes in German  
+- 🇫🇷 French – Basic (A2)
 
 ---
 
 ## ❤️ What Others Say
 
-> *“Sam’s ability to lead through adversity is inspiring. He motivated the whole team and always found solutions under pressure.”*  
-> — *Arthur Bucar, Mobile Developer*
+> *"I was particularly impressed with Samarony's ability to deal with adversities that occurred throughout the project effortlessly. This skill often takes years to develop, but it seems natural to him."*  
+> *Arthur Bucar, Mobile Developer (reported to Sam)*
 
-> *“Whenever I think of someone for a tech lead role, I think of Sam. He doesn't just deliver — he improves the entire process.”*  
-> — *Douglas Gonçalves, Business Manager*
+> *"Whenever I think of someone for a development project or a team leader, I will have Sam as a reference."*  
+> *Douglas Gonçalves, New Business Manager (same team)*
 
 ---
 
@@ -85,4 +95,4 @@ Developed React & Node.js applications on AWS. Built CI/CD pipelines and integra
 
 ---
 
-> 🧭 *“Leading through code, empowering through culture.”*
+> 🧭 *"Lead the team, keep shipping code."*
